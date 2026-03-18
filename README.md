@@ -20,9 +20,9 @@
 
 ▸ **AppBar:** Título "**Crunchyroll**"
 
-▸ **Títulos:** Color naranja
+▸ **Títulos:** Color negro
 
-▸ **Subtítulos:** Color naranja en **negritas**
+▸ **Subtítulos:** Color negro en **negritas**
 
 ▸ **Cards:** Fondo con **gradiente naranja**
 
