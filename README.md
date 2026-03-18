@@ -14,7 +14,7 @@
 
 ---
 
-## 🎨 **Esquema de Colores**
+##  **Esquema de Colores**
 
 ▸ **Fondo general:** Gris oscuro
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🖼️ **Contenido de las Cards**
+##  **Contenido de las Cards**
 
 ### **CARD #1**
 **Imagen:** https://raw.githubusercontent.com/MunizSalinasVictor/Imagenes-para-flutter-6toI-11-feb-2026/refs/heads/main/fire%20force.jpg
@@ -75,7 +75,9 @@
 
 ---
 
-## 🚀 **Tecnología**
+##  **Tecnología**
 ▸ **Framework:** Dart con Flutter
 
 ---
+
+
